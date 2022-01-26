@@ -15,10 +15,13 @@ const Hero = (props) => (
 			<SectionTitle main center>
 				Fausto Rossi
 			</SectionTitle>
-			<SectionText>Front-End Developer</SectionText>
+			<SectionText>
+				I'm a Front-End Developer who enjoys what he does. I to sleep trying to
+				solve a coding problem, and wake up with various solutions to try, and
+				if they were to fail, learn from my mistakes
+			</SectionText>
 			<Link href="#projects">
-				{/* <Button onClick={() => (window.location = "https://google.com")}> */}
-				<Button>Más +</Button>
+				<Button>More</Button>
 			</Link>
 		</LeftSection>
 	</Section>

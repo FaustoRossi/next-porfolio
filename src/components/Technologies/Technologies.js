@@ -19,10 +19,11 @@ const Technologies = () => (
 	<Section id="tech">
 		<SectionDivider />
 		<br />
-		<SectionTitle>Tecologías </SectionTitle>
+		<SectionTitle>Technologies </SectionTitle>
 		<SectionText>
-			He trabajado con varias tecnologías y librerías pertenecientes al Front
-			End Development, asi como el manejo e integración de API's
+			I'm familiar with several technologies and libraries regarding Front End
+			Development, as well as Api integration, and I find myself wanting to
+			learn more.
 		</SectionText>
 		<List>
 			<ListItem>
@@ -30,7 +31,7 @@ const Technologies = () => (
 				<ListContainer>
 					<ListTitle>Front End</ListTitle>
 					<ListParagraph>
-						Experiencia con
+						Experienced on
 						<br />
 						React.JS | JavaScript <br /> Sass | Tailwind
 					</ListParagraph>
@@ -42,7 +43,7 @@ const Technologies = () => (
 				<ListContainer>
 					<ListTitle>UI/UX</ListTitle>
 					<ListParagraph>
-						Experiencia con <br />
+						Experienced on <br />
 						Figma | Adobe Lightroom
 					</ListParagraph>
 				</ListContainer>
