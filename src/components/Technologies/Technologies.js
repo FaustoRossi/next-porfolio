@@ -33,7 +33,7 @@ const Technologies = () => (
 					<ListParagraph>
 						Experienced on
 						<br />
-						React.JS | JavaScript <br /> Sass | Tailwind
+						React.Js | Next.Js <br /> Sass | Tailwind
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>

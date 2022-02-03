@@ -1,6 +1,6 @@
 export const projects = [
 	{
-		title: "Buscador de videos de Youtube",
+		title: "Youtube Api ",
 		description:
 			"Integrating Google's Api, specifically Youtube's, I managed to crete this react app, where you can access any youtube video and get related ones on the side ",
 		image: "/images/1.png",
@@ -20,13 +20,13 @@ export const projects = [
 		id: 1,
 	},
 	{
-		title: "SuperHeroes Api",
+		title: "Task Manager",
 		description:
-			"This is a challenge I got into Alkemy with. Due to complicated web security reasons, I was able to only host the search component where info about different heroes can be obtained ",
+			"Basically a To do project, but here is where I put into practice  what I've been learning with in a CRUD web app  ",
 		image: "/images/3.png",
-		tags: ["React", "Axios", "Bootstrap", "Formik", "React-Modal"],
-		source: "https://github.com/FaustoRossi/react-alkemy-challenge",
-		visit: "https://react-heroes-alkemy.netlify.app/",
+		tags: ["Next.Js", "Context API", "Tailwind", "CRUD"],
+		source: "https://github.com/FaustoRossi/task-manager",
+		visit: "https://task-manager-henna-eight.vercel.app/",
 		id: 2,
 	},
 	{

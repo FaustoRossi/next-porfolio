@@ -16,9 +16,8 @@ const Hero = (props) => (
 				Fausto Rossi
 			</SectionTitle>
 			<SectionText>
-				I'm a Front-End Developer who enjoys what he does. I to sleep trying to
-				solve a coding problem, and wake up with various solutions to try, and
-				if they were to fail, learn from my mistakes
+				I'm a Front-End Developer who enjoys what he does. I'm a team player,
+				resourceful and equipped with a variety of soft skills.
 			</SectionText>
 			<Link href="#projects">
 				<Button>More</Button>
